@@ -4125,6 +4125,9 @@ tbody.collapse.show {
     -ms-flex-direction: row;
     flex-direction: row;
   }
+  #about{
+color: green;
+  }
   .navbar-expand-md .navbar-nav .dropdown-menu {
     position: absolute;
   }
@@ -4929,25 +4932,27 @@ tbody.collapse.show {
   background-color: #1d2124;
 }
 
-.jumbotron {
-  padding: 2rem 1rem;
-  margin-bottom: 2rem;
-  background-color: #e9ecef;
-  border-radius: 0.3rem;
-}
+/*.jumbotron {*/
+/*  padding: 2rem 1rem;*/
+/*  margin-bottom: 2rem;*/
+/*  background-color: green;*/
+/*  border-radius: 0.3rem;*/
+/*}*/
 
-@media (min-width: 576px) {
-  .jumbotron {
-    padding: 4rem 2rem;
-  }
-}
+/*@media (min-width: 576px) {*/
+/*  .jumbotron {*/
+/*    padding: 4rem 2rem;*/
+/*  }*/
+/*}*/
 
-.jumbotron-fluid {
-  padding-right: 0;
-  padding-left: 0;
-  border-radius: 0;
+/*.jumbotron-fluid {*/
+/*  padding-right: 0;*/
+/*  padding-left: 0;*/
+/*  border-radius: 0;*/
+/*}*/
+.jumbotron{
+  color: green;
 }
-
 .alert {
   position: relative;
   padding: 0.75rem 1.25rem;
